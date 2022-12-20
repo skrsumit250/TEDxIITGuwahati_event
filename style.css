@@ -58,11 +58,11 @@ h2{
     /* padding-top: 50px; */
     /* padding-left: 3rem; */
 }
-h1{
+#h11{
     color: red;
     /* text-decoration-line: underline;  */
     /* text-align: center; */
-    font-size: 70%;
+    font-size: 200%;
     margin: 0;
     padding: 0;
 }
@@ -73,6 +73,7 @@ a:hover{
 .linehr{
     margin: 0;
     padding: 0;
+    margin-bottom: 20px;
     height:3.5px;
     width: 28rem;
     background-color: red;
