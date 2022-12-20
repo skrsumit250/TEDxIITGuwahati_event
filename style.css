@@ -5,9 +5,11 @@
 }
 html{
     margin: 0;
+    width: 100%;
 }
 body{
     background: black;
+    width: 100%;
 }
 .themeLOGO{
     display: block;
