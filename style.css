@@ -3,10 +3,6 @@
     padding: 0;
     /* box-sizing: border-box; */
 }
-html{
-    margin: 0;
-    width: 100%;
-}
 body{
     background: black;
     width: 100%;
@@ -32,9 +28,6 @@ body{
     /* padding-bottom: 10px; */
     padding-top: 30px;
     font-family: 'Inter', sans-serif;
-}
-.container{
-    padding: 0;
 }
 @font-face {
     font-family: 'Inter', sans-serif;
