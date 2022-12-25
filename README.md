@@ -1,2 +1,2 @@
-# TEDxIITGuwahati_event
+# TEDxIITGuwahati_event (Responsive)
 TEDxIITGuwahati_event page (Responsive)
